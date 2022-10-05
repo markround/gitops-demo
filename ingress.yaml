@@ -6,7 +6,7 @@ metadata:
   annotations:
     kubernetes.io/ingress.class: kommander-traefik
     traefik.ingress.kubernetes.io/router.tls: "true"
-    traefik.ingress.kubernetes.io/router.middlewares: test-project-mfp2n-middleware-nginx@kubernetescrd
+    traefik.ingress.kubernetes.io/router.middlewares: test-project-s8qw9-middleware-nginx@kubernetescrd
 spec:
   rules:
   - http:
